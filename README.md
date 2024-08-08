@@ -33,4 +33,4 @@ The document also explores real-world applications of these algorithms in health
 
 ## Full Document
 
-You can view the full document [here](./ML_SLA.pdf).
+You can view the full document [here](./Supervised Learning Algorithms.pdf).
